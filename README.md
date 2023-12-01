@@ -2,5 +2,9 @@
 * git init
 * git add
 * git commit
+* git push
+* git clone
+* git pull
+* git fetch
 
 index.html 에서 'html' 하고 ctrl + space
